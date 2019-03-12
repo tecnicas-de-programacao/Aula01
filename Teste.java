@@ -1,1 +1,3 @@
-vsamklssdnakl
+public class Teste{
+
+}
